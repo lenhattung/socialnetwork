@@ -31,5 +31,6 @@ https://docs.google.com/spreadsheets/d/1qKUPpQpIorpOo83opxGqdpSEEf7p6QpHJmRvyOIK
 
 ================================================================
 
-
+Áp dụng thuật toán girvan_newman:
+https://colab.research.google.com/drive/1UVSR81PPJwCM56emXMrcpn8rI6Nosk7M?usp=sharing
 
